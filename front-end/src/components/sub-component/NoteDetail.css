@@ -32,11 +32,11 @@
 .DetailBoxContainer {
  text-align: left;
  padding: 2% 4%;
- color: white;
+ color: black;
 }
 
 .Divider {
-  border-bottom: 2px solid white;
+  border-bottom: 2px solid black;
   margin-top: 10px;
   margin-bottom: 20px;
 }
